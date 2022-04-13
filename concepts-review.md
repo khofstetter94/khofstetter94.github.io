@@ -1,6 +1,4 @@
-layout: page
-title: "Concepts Review"
-permalink: /concepts-review/
+
 
 ### Concepts Review
 1. The more number signs I put before a heading, the ____________ the font will be.
