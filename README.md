@@ -1,8 +1,4 @@
 # Reading notes 
-## About Me
-Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working as a dental hygienist since I graduated college in 2017. Recently, I have found that my career was not meeting my professional goals, so I decided to make a switch! I do not have any experience in software development aside from a handful of free online courses. I'm very excited to dive into this complex career and see where it takes me! Outside of work, I enjoy travelling, reading, and spending as much time as I can with friends. 
-
-![Profile Photo -KC](https://user-images.githubusercontent.com/103529449/163075585-aee3aa16-5ee3-4cfa-b80a-c6a9d74209ea.jpg)
 
 ## Growth Mindset
 Learn more about what a Growth Mindset is [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
@@ -17,3 +13,8 @@ When I read through this article, I was hyper aware of the fact that I often rel
 - Accept the bad and make concious decisions to improve
 
 Check out my [GitHub portfolio page](https://github.com/khofstetter94)
+
+## About Me
+Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working as a dental hygienist since I graduated college in 2017. Recently, I have found that my career was not meeting my professional goals, so I decided to make a switch! I do not have any experience in software development aside from a handful of free online courses. I'm very excited to dive into this complex career and see where it takes me! Outside of work, I enjoy travelling, reading, and spending as much time as I can with friends. 
+
+![Profile Photo -KC](https://user-images.githubusercontent.com/103529449/163075585-aee3aa16-5ee3-4cfa-b80a-c6a9d74209ea.jpg)
