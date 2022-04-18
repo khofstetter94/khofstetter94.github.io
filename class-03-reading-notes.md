@@ -31,13 +31,13 @@ Download Git:
   
   In the terminal type:
   
-      'git config --global user.name "Jane Smith"'
+      git config --global user.name "Jane Smith"
       
-      'git config --global user.email "example@email.com"'
+      git config --global user.email "example@email.com"
       
 **Default Text Editor**: Git uses your system's default editor, to switch editors, type into your command line:
 
-      '$ git config --global core.editor (name of editor)'
+      $ git config --global core.editor (name of editor)
   
 - **Note** Some editors require specific instructions 
 
