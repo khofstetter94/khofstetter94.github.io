@@ -22,3 +22,5 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 ## [Class 01 Reading Notes - Review your knowledge of basic syntax concepts](https://khofstetter94.github.io/reading-notes/concepts-review)
 ## [Class 02 Reading Notes - Text Editors and The Terminal](https://khofstetter94.github.io/reading-notes/class-02-reading-notes) 
+## [Class 03 Reading Notes - Git Intro](https://khofstetter94.github.io/reading-notes/class-03-reading-notes)
+
