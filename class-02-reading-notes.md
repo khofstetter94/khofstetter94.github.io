@@ -81,7 +81,7 @@ Everything is a file - text files, a directory, your keyboard, your monitor, etc
 - Linux is extensionless meaning that it knows what kind of file a particular file is without a specified extension. For example: a photo will be known as a photo whether the file ends in .jpg, .txt, or .exe! 
 - To find out what type of file something is, use command: **file [path]**
 - Linus is **case sensitive**!! Watch out or capitol and lowercase letters in the file names and even your commands!
-- **SPACES** separate items! If your directory name has a space in it, type the command between quotes (ex: 'holiday photos') **OR** use an escape character (\) before the character which you want to nulify (ex: holiday\ photos)
+- **SPACES** separate items! If your directory name has a space in it, type the command between quotes (ex: 'holiday photos') **OR** use an escape character (backslash) before the character which you want to nulify (ex: holiday\ photos)
 
 **HIDDEN FILES**
 - If the name begins with a . (full stop), then it is hidden
