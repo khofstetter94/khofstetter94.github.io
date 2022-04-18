@@ -19,3 +19,5 @@
 16. I can mention a person or team on Github but using the _____ symbol plus their username or team name.
 17. In order to bring up the list of Emojis, I need to type the _____ symbol.
 18. The bracket syntax [^1] after text will create a ________________.
+
+[Return home](https://khofstetter94.github.io/reading-notes/)
