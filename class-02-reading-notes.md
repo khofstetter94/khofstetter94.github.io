@@ -87,3 +87,6 @@ Everything is a file - text files, a directory, your keyboard, your monitor, etc
 - If the name begins with a . (full stop), then it is hidden
 - You can create a hidden file by adding the . at the beginning, and you can un-hide a file by deleting the . 
 - Add option -a to show hidden files as well! 
+
+[Return home](https://khofstetter94.github.io/reading-notes/)
+
