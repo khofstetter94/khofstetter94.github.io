@@ -20,4 +20,5 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 ![Profile Photo -KC](https://user-images.githubusercontent.com/103529449/163075585-aee3aa16-5ee3-4cfa-b80a-c6a9d74209ea.jpg)
 
 
-## [Review your knowledge of basic syntax concepts](https://khofstetter94.github.io/reading-notes/concepts-review)
+## [Class 01 Reading Notes - Review your knowledge of basic syntax concepts](https://khofstetter94.github.io/reading-notes/concepts-review)
+## [Class 02 Reading Notes - Text Editors and The Terminal](https://khofstetter94.github.io/reading-notes/class-02-reading-notes) 
