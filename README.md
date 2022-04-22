@@ -33,3 +33,5 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 [Class 04 Reading Notes - Wireframe and Design, Mozilla HTML Basics, and Semantics](https://khofstetter94.github.io/reading-notes/class-04-reading-notes)
 
 [Class 05 Reading Notes - Design web pages with CSS](https://khofstetter94.github.io/reading-notes/class-05-reading-notes)
+
+[Class 06 Reading Notes - Dynamic Wed Pages with JavaScript](https://khofstetter94.github.io/reading-notes/class-06-reading-notes)
