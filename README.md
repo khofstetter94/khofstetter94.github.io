@@ -37,3 +37,5 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 [Class 06 Reading Notes - Dynamic Web Pages with JavaScript](https://khofstetter94.github.io/reading-notes/class-06-reading-notes)
 
 [Class 07 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-07-reading-notes)
+
+[Class 08 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-08-reading-notes)
