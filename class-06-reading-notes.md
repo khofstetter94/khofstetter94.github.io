@@ -1,4 +1,4 @@
-# Dynamic Wed Pages with JavaScript - Reading Notes
+# Dynamic Web Pages with JavaScript - Reading Notes
 
 View the full blogs:
 
