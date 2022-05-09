@@ -24,6 +24,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 ## Table of Contents
 
+### Class 102 Reading Notes
+
 [Class 01 Reading Notes - Review your knowledge of basic syntax concepts](https://khofstetter94.github.io/reading-notes/class-01-reading-notes)
 
 [Class 02 Reading Notes - Text Editors and The Terminal](https://khofstetter94.github.io/reading-notes/class-02-reading-notes)
@@ -39,3 +41,21 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 [Class 07 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-07-reading-notes)
 
 [Class 08 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-08-reading-notes)
+
+### Class 201 Reading Notes
+
+- Class 1
+- Class 2
+- Class 3
+- Class 4
+- Class 5
+- Class 6
+- Class 7
+- Class 8
+- Class 9
+- Class 10
+- Class 11
+- Class 12
+- Class 13
+- Class 14
+- Class 15
