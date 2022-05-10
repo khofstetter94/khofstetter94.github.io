@@ -123,6 +123,6 @@ As the user makers their way through your webpage, different interactions may mo
           msg = 'You may not enter the bar';
         }
 
-- **Switch statements** - This statements starts with a variable that will determine which code block runs. This switch value is followed by different 'cases' with different possible values for the variable, which ever matches the value will be exectuted. Example:
+- **Switch statements** - This statements starts with a variable that will determine which code block runs. This switch value is followed by different 'cases' with different possible values for the variable, which ever matches the value will be executed.
 
 [Return home](https://khofstetter94.github.io/reading-notes/)
