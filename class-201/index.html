@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lab 01</title>
+    <style>
+      body {
+        background-color: darkcyan;
+      }
+
+      h1 {
+        color: rgb(97, 35, 24);
+        background-color: rgb(247, 148, 148);
+        text-align: center
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Class 01 Lab-01</h1>
+    </header>
+    <main>
+      <p style="color: rgb(24, 97, 97); background-color: rgb(196, 210, 255); text-align: center;">What is your name?</p>
+      <p style="color: rgb(24, 97, 42); background-color: rgb(196, 255, 196); text-align: center;">How old are you?</p>
+      <p style="color: rgb(97, 90, 24); background-color: rgb(255, 254, 196); text-align: center;">Where do you live?</p>
+      <p style="color: rgb(94, 24, 97); background-color: rgb(238, 196, 255); text-align: center;">What do you want to do for work?</p>
+    </main>
+    <footer>
+
+    </footer>
+    <script>
+      console.log('Hello World');
+
+      let userResponseOne = prompt('What is your name?');
+      alert('Welcome ' + userResponseOne + '!');
+      console.log("name:", userResponseOne);
+
+      let userResponseTwo = prompt('How old are you?');
+      alert('Wow ' + userResponseOne + ', ' + userResponseTwo + ', that is young!');
+      console.log("age:", userResponseTwo);
+
+      let userReponseThree = prompt('Where do you live?');
+      alert('Interesting, ' + userReponseThree + ', must be nice!' + ' Have you lived there for all ' + userResponseTwo + ' years, ' + userResponseOne + '?');
+      console.log("location:", userReponseThree);
+
+      let userResponseFour = prompt('What do you want to do for work?');
+      alert('Cool! ' + userResponseFour + '!' + ' That field needs more ' + userResponseTwo + ' year olds!' + ' I hope you find work in ' + userReponseThree + ', ' + userResponseOne + '!');
+      console.log("career:", userResponseFour);
+    </script>
+  </body>
+</html>
