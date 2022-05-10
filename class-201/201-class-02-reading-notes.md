@@ -104,7 +104,7 @@ As the user makers their way through your webpage, different interactions may mo
 
         (age >= 21)
 
-Note that an operand can be an expression, where each expression evaluates into a single value to be compared. This can be done by setting variables as different values, then using an arithmetic operator to combine the values, then use a comparision operator to compare the two resulting values. Example:
+- Note that an operand can be an expression, where each expression evaluates into a single value to be compared. This can be done by setting variables as different values, then using an arithmetic operator to combine the values, then use a comparision operator to compare the two resulting values.
 
 - **Logical operators** - allow comparision of results of more than one comparison operator. On either side of the logical operator, two different expressions use different comparision operators to return a value, these two values are then compared with the logical operator between them. With '&&' both values need to be true. '&&' logical 'and', '||' logical 'or', '!' logical 'not'. Logical expressions read left to right, once a 'true' value is read, the reading stops and the value is true.
 
