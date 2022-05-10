@@ -61,4 +61,4 @@ A **while** statement executes its statement as long as a specified condition ev
 - If the condition returns 'true', statement is executed and the 'condition' is tested again. This continues until the 'condition' returns 'false'
 - **AVOID** infinite loops - make sure the condition will eventually lead to a 'false'
 
-[Return home](khofstetter94.github.io/reading-notes/)
+[Return home](https://khofstetter94.github.io/reading-notes/)

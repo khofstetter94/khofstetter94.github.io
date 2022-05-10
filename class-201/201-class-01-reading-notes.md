@@ -70,4 +70,4 @@ Keep JavaScript in it's own file
 - use the HTMl element 'script' to use JavaScript with a web page
 - JavaScript will run wherever it is found in the HTML
 
-[Return home](khofstetter94.github.io/reading-notes/)
+[Return home](https://khofstetter94.github.io/reading-notes/)
