@@ -26,21 +26,21 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 ### Class 102 Reading Notes
 
-[Class 01 Reading Notes - Review your knowledge of basic syntax concepts](https://khofstetter94.github.io/reading-notes/class-01-reading-notes)
+[Class 01 Reading Notes - Review your knowledge of basic syntax concepts](https://khofstetter94.github.io/reading-notes/class-102/class-01-reading-notes)
 
-[Class 02 Reading Notes - Text Editors and The Terminal](https://khofstetter94.github.io/reading-notes/class-02-reading-notes)
+[Class 02 Reading Notes - Text Editors and The Terminal](https://khofstetter94.github.io/reading-notes/class-102/class-02-reading-notes)
 
-[Class 03 Reading Notes - Git Intro](https://khofstetter94.github.io/reading-notes/class-03-reading-notes)
+[Class 03 Reading Notes - Git Intro](https://khofstetter94.github.io/reading-notes/class-102/class-03-reading-notes)
 
-[Class 04 Reading Notes - Wireframe and Design, Mozilla HTML Basics, and Semantics](https://khofstetter94.github.io/reading-notes/class-04-reading-notes)
+[Class 04 Reading Notes - Wireframe and Design, Mozilla HTML Basics, and Semantics](https://khofstetter94.github.io/reading-notes/class-102/class-04-reading-notes)
 
-[Class 05 Reading Notes - Design web pages with CSS](https://khofstetter94.github.io/reading-notes/class-05-reading-notes)
+[Class 05 Reading Notes - Design web pages with CSS](https://khofstetter94.github.io/reading-notes/class-102/class-05-reading-notes)
 
-[Class 06 Reading Notes - Dynamic Web Pages with JavaScript](https://khofstetter94.github.io/reading-notes/class-06-reading-notes)
+[Class 06 Reading Notes - Dynamic Web Pages with JavaScript](https://khofstetter94.github.io/reading-notes/class-102/class-06-reading-notes)
 
-[Class 07 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-07-reading-notes)
+[Class 07 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-102/class-07-reading-notes)
 
-[Class 08 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-08-reading-notes)
+[Class 08 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-102/class-08-reading-notes)
 
 ### Class 201 Reading Notes
 
