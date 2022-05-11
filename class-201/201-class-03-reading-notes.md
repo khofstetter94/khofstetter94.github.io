@@ -1,5 +1,11 @@
 # HTML Lists, Control Flow with JS, and CSS Box Model
 
+Notes taken from:
+
+- Duckett, J. (2014). JavaScript &amp; JQuery. John Wiley &amp; Sons, Inc. .
+
+- Duckett, J. (2011). Html &amp; Css. John Wiley &amp; Sons, Inc.
+
 ## Lists
 
 - **Types of lists** - Ordered (numbered), unordered (bullet points), and definition lists (terms and definitions)
