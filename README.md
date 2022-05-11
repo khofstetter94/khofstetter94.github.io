@@ -48,7 +48,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 02 Reading Notes - Basics of HTML, CSS, & JS](https://khofstetter94.github.io/reading-notes/class-201/201-class-02-reading-notes)
 
-- Class 3
+[Class 03 Reading Notes - HTML Lists, Control Flow with JS, and the CSS Box Model](https://khofstetter94.github.io/reading-notes/class-201/201-class-03-reading-notes)
+
 - Class 4
 - Class 5
 - Class 6
