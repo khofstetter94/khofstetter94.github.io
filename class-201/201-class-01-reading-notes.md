@@ -1,5 +1,11 @@
 # Duckett HTML
 
+Notes taken from:
+
+- Duckett, J. (2014). JavaScript &amp; JQuery. John Wiley &amp; Sons, Inc. .
+
+- Duckett, J. (2011). Html &amp; Css. John Wiley &amp; Sons, Inc.
+
 Ways to access the web:
 
 - Browsers - software like Chrome or Firefox that allows browsing with web addresses and links

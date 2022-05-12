@@ -1,5 +1,11 @@
 # Basics of HTML, CSS, & JS
 
+Notes taken from:
+
+- Duckett, J. (2014). JavaScript &amp; JQuery. John Wiley &amp; Sons, Inc. .
+
+- Duckett, J. (2011). Html &amp; Css. John Wiley &amp; Sons, Inc.
+
 ## Text
 
 **Headings** - 6 levels ranging from the most important to the least, h1-h6, h1 being the largest font and most important heading
