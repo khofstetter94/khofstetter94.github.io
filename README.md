@@ -54,7 +54,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 05 Reading Notes - Images, Color, Text](https://khofstetter94.github.io/reading-notes/class-201/201-class-05-reading-notes)
 
-- Class 6
+[Class 06 Reading Notes - Problem Domain, Objects, and the DOM](https://khofstetter94.github.io/reading-notes/class-201/201-class-06-reading-notes)
+
 - Class 7
 - Class 8
 - Class 9
