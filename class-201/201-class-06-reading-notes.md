@@ -24,7 +24,7 @@
   - Symbol
   - Objects
 
-- **Primitive values" that are assigned to a variable, sets the varaible to that value diectly
+- **Primitive values" that are assigned to a variable, sets the variable to that value directly
 
 - When the variable is assigned to an **object** that variable contains a **reference** to it
 
@@ -54,7 +54,7 @@
 
 ## Document Object Model
 
-- The Document Object Model (DOM) specifies how browers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the brower window
+- The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window
 
 - the DOM tree is stored in the browsers memory and has four main types of nodes: the **document node**, the **element node**, the **attribute node**, and the **text nodes**
 
@@ -75,13 +75,13 @@
   - getElementsByTagName('tagname')
   - querySelectorAll('css selector')
 
-- Ways to select an element from a NodeList (both require the index number ofthe element you want):
+- Ways to select an element from a NodeList (both require the index number of the element you want):
   - the item() method
   - array syntax
 
 - You can also select elements using class attributes, tag name, or CSS selectors
 
-- In a NodeList, you can use a **for loop** to loop through each node in the collection and apply the same statments to each
+- In a NodeList, you can use a **for loop** to loop through each node in the collection and apply the same statements to each
 
 - Select an element in relation to an different element node using one of these 5 properties - **parentNode**, **previousSibling**, **nextSibling**, **firstChild**, **lastchild**
 
@@ -89,7 +89,7 @@
 
 - The **textContent** property allows you to collect or update just the text that is in the containing element (and its children)
 
-- Two appraoches to adding and removing content from a DOM tree: the **innerHTML** property and DOM manipulation methods
+- Two approaches to adding and removing content from a DOM tree: the **innerHTML** property and DOM manipulation methods
 
 - **innerHTML** lets your access and amend the contents of an element, including any child elements
 
@@ -103,6 +103,6 @@
 
 - Once you have an element node, you can use other properties and methods on that element node to access and change its attributes
 
-- Modern browers come with tools that help you **inspect** tha page loaded in the browser and understand the struvture of the DOM tree - going to the **Properties** panel will tell you the type of object the selected element is
+- Modern browsers come with tools that help you **inspect** the page loaded in the browser and understand the structure of the DOM tree - going to the **Properties** panel will tell you the type of object the selected element is
 
 [Return home](https://khofstetter94.github.io/reading-notes/)
