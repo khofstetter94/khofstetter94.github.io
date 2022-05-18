@@ -58,7 +58,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 07 Reading Notes - Object-Oriented Programming, HTML Tables](https://khofstetter94.github.io/reading-notes/class-201/201-class-07-reading-notes)
 
-- Class 8
+[Class 08 Reading Notes - CSS Layout](https://khofstetter94.github.io/reading-notes/class-201/201-class-08-reading-notes)
+
 - Class 9
 - Class 10
 - Class 11
