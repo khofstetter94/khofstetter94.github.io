@@ -62,7 +62,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 09 Reading Notes - Forms and JS Events](https://khofstetter94.github.io/reading-notes/class-201/201-class-09-reading-notes)
 
-- Class 10
+[Class 10 Reading Notes - Debugging](https://khofstetter94.github.io/reading-notes/class-201/201-class-10-reading-notes)
+
 - Class 11
 - Class 12
 - Class 13
