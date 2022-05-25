@@ -68,6 +68,7 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 12 Reading Notes - Chart.js, Canvas](https://khofstetter94.github.io/reading-notes/class-201/201-class-12-reading-notes)
 
-- Class 13
+[Class 13 Reading Notes - Local Storage](https://khofstetter94.github.io/reading-notes/class-201/201-class-13-reading-notes)
+
 - Class 14
 - Class 15
