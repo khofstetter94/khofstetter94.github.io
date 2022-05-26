@@ -25,7 +25,7 @@
 
 - **3D Transforms** - work on both the x and y axes, as well as the z axis. Helps define not only the length and width of an element, but also the depth. Use three new transform values, rotateX, rotateY, and rotateZ
   - **rotateX** value allows you to rotate an element around the x axis, as if it were being bent in half horizontally
-  - **rotateX** value allows you to rotate an element around the x axis, as if it were being bent in half horizontally
+  - **rotateY** value allows you to rotate an element around the Y axis, as if it were being bent in half vertically
   - **rotateZ** value allows an element to be rotated around the z axis
 
 - **3D Scale** - elements may be scaled on the z axis
