@@ -70,5 +70,6 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 13 Reading Notes - Local Storage](https://khofstetter94.github.io/reading-notes/class-201/201-class-13-reading-notes)
 
-- Class 14
+[Class 14 Reading Notes - CSS Transforms, Transitions, and Animations](https://khofstetter94.github.io/reading-notes/class-201/201-class-14-reading-notes)
+
 - Class 15
