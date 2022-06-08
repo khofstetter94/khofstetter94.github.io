@@ -24,7 +24,7 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 ## Table of Contents
 
-### Class 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 [Class 01 Reading Notes - Review your knowledge of basic syntax concepts](https://khofstetter94.github.io/reading-notes/class-102/class-01-reading-notes)
 
@@ -42,7 +42,7 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 08 Reading Notes - Programming with JavaScript](https://khofstetter94.github.io/reading-notes/class-102/class-08-reading-notes)
 
-### Class 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 [Class 01 Reading Notes - Introductory HTML and JavaScript](https://khofstetter94.github.io/reading-notes/class-201/201-class-01-reading-notes)
 
@@ -72,4 +72,6 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 14 Reading Notes - CSS Transforms, Transitions, and Animations](https://khofstetter94.github.io/reading-notes/class-201/201-class-14-reading-notes)
 
-- Class 15
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
