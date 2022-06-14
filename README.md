@@ -74,4 +74,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 ### Code 301 - Intermediate Software Development
 
+[Class 01 Reading Notes - Introduction to React and Components](https://khofstetter94.github.io/reading-notes/class-301/301-class-01-reading-notes)
+
+[Class 02 Reading Notes - State and Props](https://khofstetter94.github.io/reading-notes/class-301/301-class-02-reading-notes)
+
 ### Code 401 - Advanced Software Development
