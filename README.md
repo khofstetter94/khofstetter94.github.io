@@ -80,4 +80,6 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 03 Reading Notes - Lists and Keys, The Spread Operator, and Passing Functions as Props](https://khofstetter94.github.io/reading-notes/class-301/301-class-03-reading-notes)
 
+[Class 04 Reading Notes - React and Forms](https://khofstetter94.github.io/reading-notes/class-301/301-class-04-reading-notes)
+
 ### Code 401 - Advanced Software Development
