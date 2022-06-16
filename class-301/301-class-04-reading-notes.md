@@ -1,4 +1,4 @@
-# React and Forms
+# React and Forms, The Ternary Operator
 
 [React Docs - Forms](https://reactjs.org/docs/forms.html)
 
