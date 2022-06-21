@@ -86,4 +86,6 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 06 Reading Notes - NODE.JS & Paired programming](https://khofstetter94.github.io/reading-notes/class-301/301-class-06-reading-notes)
 
+[Class 07 Reading Notes - REST](https://khofstetter94.github.io/reading-notes/class-301/301-class-07-reading-notes)
+
 ### Code 401 - Advanced Software Development
