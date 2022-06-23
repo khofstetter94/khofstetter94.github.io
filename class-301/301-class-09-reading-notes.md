@@ -18,4 +18,8 @@ Unchanging over time or unable to be changed. Referential transparency
 - **How do we bring another module into the file the we are working in?** - in the file we are working in, we need to 'require' the file (require(./filename))...
 - **What do we have to do to make a module available?** -...(see above) and then in the file we are requiring, we need to have a 'module.exports=' and assign it to the functions we want to use in our current file. Then set the require to a variable to be used where needed.
 
+## Things I want to know more about
+
+- The examples in the Functional Programming article would not load for me, so I'd like to see some examples of pure functions at work.
+
 [Return home](https://khofstetter94.github.io/reading-notes/)
