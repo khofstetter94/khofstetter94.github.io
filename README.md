@@ -90,4 +90,6 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 08 Reading Notes - APIs](https://khofstetter94.github.io/reading-notes/class-301/301-class-08-reading-notes)
 
+[Class 09 Reading Notes - Functional Programming](https://khofstetter94.github.io/reading-notes/class-301/301-class-09-reading-notes)
+
 ### Code 401 - Advanced Software Development
