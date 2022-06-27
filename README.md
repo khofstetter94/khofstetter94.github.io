@@ -94,4 +94,6 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 10 Reading Notes - The JavaScript Call Stack & Error Messages](https://khofstetter94.github.io/reading-notes/class-301/301-class-10-reading-notes)
 
+[Class 11 Reading Notes - Mongo and Mongoose](https://khofstetter94.github.io/reading-notes/class-301/301-class-11-reading-notes)
+
 ### Code 401 - Advanced Software Development
