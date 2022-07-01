@@ -102,4 +102,6 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 14 Reading Notes - Diversity & Inclusion in the Tech Industry](https://khofstetter94.github.io/reading-notes/class-301/301-class-14-reading-notes.md)
 
+[Class 15 Reading Notes - Authentication](https://khofstetter94.github.io/reading-notes/class-301/301-class-15-reading-notes.md)
+
 ### Code 401 - Advanced Software Development
