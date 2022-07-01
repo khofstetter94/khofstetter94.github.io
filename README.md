@@ -98,10 +98,10 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 12 Reading Notes - CRUD](https://khofstetter94.github.io/reading-notes/class-301/301-class-12-reading-notes)
 
-[Class 13 Reading Notes - More CRUD](https://khofstetter94.github.io/reading-notes/class-301/301-class-13-reading-notes.md)
+[Class 13 Reading Notes - More CRUD](https://khofstetter94.github.io/reading-notes/class-301/301-class-13-reading-notes)
 
-[Class 14 Reading Notes - Diversity & Inclusion in the Tech Industry](https://khofstetter94.github.io/reading-notes/class-301/301-class-14-reading-notes.md)
+[Class 14 Reading Notes - Diversity & Inclusion in the Tech Industry](https://khofstetter94.github.io/reading-notes/class-301/301-class-14-reading-notes)
 
-[Class 15 Reading Notes - Authentication](https://khofstetter94.github.io/reading-notes/class-301/301-class-15-reading-notes.md)
+[Class 15 Reading Notes - Authentication](https://khofstetter94.github.io/reading-notes/class-301/301-class-15-reading-notes)
 
 ### Code 401 - Advanced Software Development
