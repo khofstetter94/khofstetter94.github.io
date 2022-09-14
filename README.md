@@ -105,3 +105,19 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 [Class 15 Reading Notes - Authentication](https://khofstetter94.github.io/reading-notes/class-301/301-class-15-reading-notes)
 
 ### Code 401 - Advanced Software Development
+
+### Typing Lessons Screenshots
+
+![Typing Lessons One](/img/one.png)
+
+![Typing Lessons Two](/img/two.png)
+
+![Typing Lessons Three](/img/three.png)
+
+![Typing Lessons Four](/img/four.png)
+
+![Typing Lessons Five](/img/five.png)
+
+![Typing Lessons Six](/img/six.png)
+
+![Typing Lessons Seven](/img/seven.png)
