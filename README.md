@@ -106,6 +106,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 ### Code 401 - Advanced Software Development
 
+[Prep: Practice in the Terminal](https://khofstetter94.github.io/reading-notes/class-401/401-prep-practice-in-the-terminal)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
