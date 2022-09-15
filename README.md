@@ -108,6 +108,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Prep: Practice in the Terminal](https://khofstetter94.github.io/reading-notes/class-401/401-prep-practice-in-the-terminal)
 
+[Prep: The Growth Mindset](https://khofstetter94.github.io/reading-notes/class-401/401-prep-the-growth-mindset)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
