@@ -125,3 +125,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 ![Typing Lessons Six](/img/six.png)
 
 ![Typing Lessons Seven](/img/seven.png)
+
+### Git Practice
+
+![Git Practice One](/img/git-practice-one.png)
+![Git Practice Two](/img/git-practice-two.png)
