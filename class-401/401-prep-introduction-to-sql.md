@@ -54,3 +54,5 @@ SOURCE: [SQLBolt Tutorials](https://sqlbolt.com/)
 ![SQL Exercise Sixteen](/img/sql-sixteen.png)
 ![SQL Exercise Seventeen](/img/sql-seventeen.png)
 ![SQL Exercise Eighteen](/img/sql-eighteen.png)
+
+[Return home](https://khofstetter94.github.io/reading-notes/)
