@@ -16,4 +16,8 @@
   - Read it twice, solve it manually with 3 sets of sample data, optimize the manual steps, write the manual steps as comments or pseudo-code, replace the comments or pseudo-code with real code, optimize the real code (SOURCE: Solving Problems article, link above)
   - Take breaks and ASK FOR HELP
 
+## Things I want to know more about
+
+- Implementing the 5 whys problem within a software development team. Other websites for code challenges that I can use for interview prep.
+
 [Return home](https://khofstetter94.github.io/reading-notes/)
