@@ -114,6 +114,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Prep: Engineering Readings](https://khofstetter94.github.io/reading-notes/class-401/401-prep-engineering-readings)
 
+[Prep: Data Structures and Algorithms](https://khofstetter94.github.io/reading-notes/class-401/401-prep-data-structures-and-algorithms)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
