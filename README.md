@@ -112,6 +112,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Prep: Introduction to SQL](https://khofstetter94.github.io/reading-notes/class-401/401-prep-introduction-to-sql)
 
+[Prep: Engineering Readings](https://khofstetter94.github.io/reading-notes/class-401/401-prep-engineering-readings)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
