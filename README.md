@@ -118,6 +118,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 01 Reading Notes - Node Ecosystem](https://khofstetter94.github.io/reading-notes/class-401/401-class-01-reading-notes)
 
+[Class 02 Reading Notes - Express, NPM, TDD, CI/CD](https://khofstetter94.github.io/reading-notes/class-401/401-class-02-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
@@ -137,4 +139,5 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 ### Git Practice
 
 ![Git Practice One](/img/git-practice-one.png)
+
 ![Git Practice Two](/img/git-practice-two.png)
