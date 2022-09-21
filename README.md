@@ -120,6 +120,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 02 Reading Notes - Express, NPM, TDD, CI/CD](https://khofstetter94.github.io/reading-notes/class-401/401-class-02-reading-notes)
 
+[Class 03 Reading Notes - Express REST API](https://khofstetter94.github.io/reading-notes/class-401/401-class-03-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)

@@ -4,7 +4,7 @@
 
 - Explain middleware, answer as though I were a non-technical recruiter.
   - Middleware serves as the connection between software and the application. It handles communication and data handling.
-- Express the most popular __ __ ____.
+- Express the most popular ________.
   - Node web framework
 - Express is “unopinionated.” What does that mean?
   - Unopinionated frameworks, by contrast, have far fewer restrictions on the best way to glue components together to achieve a goal, or even what components should be used. They make it easier for developers to use the most suitable tools to complete a particular task, albeit at the cost that you need to find those components yourself.
