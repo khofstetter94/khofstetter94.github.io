@@ -124,6 +124,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 04 Reading Notes - Data Modeling](https://khofstetter94.github.io/reading-notes/class-401/401-class-04-reading-notes)
 
+[Class 06 Reading Notes - Authentication](https://khofstetter94.github.io/reading-notes/class-401/401-class-06-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
