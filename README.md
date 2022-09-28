@@ -128,6 +128,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 07 Reading Notes - Bearer Authentication](https://khofstetter94.github.io/reading-notes/class-401/401-class-07-reading-notes)
 
+[Class 08 Reading Notes - Access Control (ACL)](https://khofstetter94.github.io/reading-notes/class-401/401-class-08-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
