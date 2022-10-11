@@ -138,6 +138,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 16 Reading Notes - AWS: Cloud Servers](https://khofstetter94.github.io/reading-notes/class-401/401-class-16-reading-notes)
 
+[Class 17 Reading Notes - AWS: S3 and Lambda](https://khofstetter94.github.io/reading-notes/class-401/401-class-17-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
