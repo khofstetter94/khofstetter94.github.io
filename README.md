@@ -142,6 +142,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 18 Reading Notes - AWS: API, Dynamo and Lambda](https://khofstetter94.github.io/reading-notes/class-401/401-class-18-reading-notes)
 
+[Class 19 Reading Notes - AWS: Events](https://khofstetter94.github.io/reading-notes/class-401/401-class-19-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
