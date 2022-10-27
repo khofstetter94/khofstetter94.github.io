@@ -150,6 +150,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 28 Reading Notes - Component Lifecylce / useEffect Hook](https://khofstetter94.github.io/reading-notes/class-401/401-class-28-reading-notes)
 
+[Class 29 Reading Notes - Advanced State with Reducers](https://khofstetter94.github.io/reading-notes/class-401/401-class-29-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
