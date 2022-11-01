@@ -154,6 +154,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 31 Reading Notes - Context API](https://khofstetter94.github.io/reading-notes/class-401/401-class-31-reading-notes)
 
+[Class 32 Reading Notes - Context API - Behaviors](https://khofstetter94.github.io/reading-notes/class-401/401-class-32-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
