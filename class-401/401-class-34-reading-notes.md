@@ -5,7 +5,7 @@
 - Explain the different between a query string parameter and a path parameter.
   - Query string parameters extend the URL, the string comes after the '?' and involves key/value pairs, they tell the server what content to deliver. Path parameters are typically used to point to a specific resource within a collection, such as a user identified by ID. A URL can have several path parameters.
 - What would our API URL with a path id parameter be given the following information:
-  - Domain: http://our-site.com
+  - Domain: 'http://our-site.com'
   - v3
   - model name: stuff
   - id: things
