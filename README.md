@@ -158,6 +158,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 33 Reading Notes - \<Login /> and \<Auth />](https://khofstetter94.github.io/reading-notes/class-401/401-class-33-reading-notes)
 
+[Class 34 Reading Notes - API Integration>](https://khofstetter94.github.io/reading-notes/class-401/401-class-34-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
