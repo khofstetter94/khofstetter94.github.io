@@ -164,6 +164,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 37 Reading Notes - Combined Reducers](https://khofstetter94.github.io/reading-notes/class-401/401-class-37-reading-notes)
 
+[Class 38 Reading Notes - Asynchronous Actions](https://khofstetter94.github.io/reading-notes/class-401/401-class-38-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
