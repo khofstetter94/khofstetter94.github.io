@@ -1,7 +1,5 @@
 # Ethics in Tech
 
-- write how each of them relates to ethics in technology. Do you agree or disagree with these articles? What stuck out to you specifically from each article?
-
 ## Ethics in the Workplace
 
 [The code I’m still ashamed of](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e)
