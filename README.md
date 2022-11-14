@@ -168,6 +168,8 @@ Hello, my name is KC Hofstetter and I live in Seattle, WA. I have been working a
 
 [Class 41 Reading Notes - React Native](https://khofstetter94.github.io/reading-notes/class-401/401-class-41-reading-notes)
 
+[Class 42 Reading Notes - Ethics](https://khofstetter94.github.io/reading-notes/class-401/401-class-42-reading-notes)
+
 ### Typing Lessons Screenshots
 
 ![Typing Lessons One](/img/one.png)
